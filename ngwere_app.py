@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 
 # Load a pre-trained model
-loaded_model = pickle.load(open('ann_model.sav', 'rb'))
+loaded_model = pickle.load(open('Craig-123/team_reipapo/ann_model.sav', 'rb'))
 
 # Define a function to classify a client
 def classify_client(data):
