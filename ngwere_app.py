@@ -6,9 +6,9 @@ from keras.models import load_model
 
 # Load a pre-trained model
 
-loaded_model = load_model('ann_model.h5')
+#loaded_model = load_model('ann_model.h5')
 
-#loaded_model = pickle.load(open('ann_model.sav', 'rb'))
+loaded_model = pickle.load(open('ngwere.sav', 'rb'))
 
 # Define a function to classify a client
 def classify_client(data):
