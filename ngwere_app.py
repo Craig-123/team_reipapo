@@ -26,7 +26,7 @@ st.title('African banking crisis prediction App')
 
 st.write('**The objective of the application is to classify whether a banking crisis is likely to occur or not in a given African country based on the values inputed. The objective is to identify early warning signs or indicators that can help anticipate and prevent financial crises**')
 
-st.write('Developed by: *Craig (R204740C)*, *Takomborerwa*, *Kevin (R198132W)*, *Tafadzwa (R205761T)*, *Rudo (R205743Q)*, *Takudzwa*')
+st.write('Developed by: *Craig (R204740C)*, *Takomborerwa (R205674U)*, *Kevin (R198132W)*, *Tafadzwa (R205761T)*, *Rudo (R205743Q)*, *Takudzwa (R207226P)*')
 
 # Display inputs for features
 st.header('Input Parameters')
