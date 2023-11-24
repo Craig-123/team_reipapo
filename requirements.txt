@@ -4,4 +4,3 @@ tensorflow>=2.12.0
 keras>=2.12.0
 streamlit>=1.22.0
 pandas>=1.5.3
-pickle>=3.10.9
